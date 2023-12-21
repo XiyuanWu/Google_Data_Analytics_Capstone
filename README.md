@@ -91,7 +91,7 @@ Here is the pivot table:
 
 <img src="./Pivot Table.png" width="900" alt="Sample Output"/>
 
-From the pivot table, we can see that 
+From the pivot table, we can see that: 
 
 - Casual riders have an average trip duration of 00:12:52 (12 minutes and 52 seconds).
 - Members have an average trip duration of 00:09:59 (9 minutes and 59 seconds).
@@ -99,14 +99,14 @@ From the pivot table, we can see that
 
 From the pivot table results, we can conclude the following about the usage of Cyclistic bikes by annual members and casual riders during weekdays in January 2023:
 
-Casual riders have longer average trip durations than members. This could indicate that casual riders may use bikes for leisure activities or less frequent but longer exploratory rides.
+**Casual riders have longer average trip durations than members.** This could indicate that casual riders may use bikes for leisure activities or less frequent but longer exploratory rides.
 Members have shorter average trip durations, which might suggest more routine and possibly utilitarian use of the bikes, such as for commuting or running errands.
 
 Suppose we want to take a further step. In that case, Exploring data for other months can reveal whether these patterns hold throughout the year or are specific to January (which can be affected by weather, holidays, etc.). Repeat steps in this docs.
 
-**Note:** Because github can’t upload files more than 25MB, so i will attach my spreadsheet [here](https://docs.google.com/spreadsheets/d/1l3l_s-4j9nLB470mk7upWz7-7tcDf6BK1gQl8j9GnWE/edit?usp=sharing).
+**Note:** Because GitHub can’t upload files more than 25MB, so I will attach my spreadsheet [here](https://docs.google.com/spreadsheets/d/1l3l_s-4j9nLB470mk7upWz7-7tcDf6BK1gQl8j9GnWE/edit?usp=sharing).
 
-And Also I use HTML file instead of csv and upload to github. Clink <a href="./Jan 2023.zip" download>here</a> to view.
+Also, I use HTML files instead of CSV and upload them to Git Hub. Clink <a href="./Jan 2023.zip" download>here</a> to view.
 
 ## Step 7: Act
 
@@ -114,7 +114,7 @@ It’s visualization time!
 
 The final step involves presenting the findings to stakeholders. The presentation will be available in both presentation and PDF formats, with links to be added.
 
-presentation mode: click here. [link]
+Presentation mode: click here. [link]
 
 PDF mode: [link]
 
