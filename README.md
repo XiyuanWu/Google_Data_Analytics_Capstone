@@ -114,9 +114,9 @@ It’s visualization time!
 
 The final step involves presenting the findings to stakeholders. The presentation will be available in both presentation and PDF formats, with links to be added.
 
-Presentation mode: click here. [link]
+Presentation mode: click [here](https://gamma.app/docs/Cyclistic-Rides-Unveiling-the-Journey-Patterns-of-Casual-Riders-v-bi4laouaw9tbfj3).
 
-PDF mode: [link]
+PDF mode: <a href="./Cyclistic-Rides-Unveiling-the-Journey-Patterns-of-Casual-Riders-vs-Members.pdf" download>here</a>.
 
 ## End of Analysis
 
