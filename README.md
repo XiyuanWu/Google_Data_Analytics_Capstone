@@ -106,6 +106,7 @@ Suppose we want to take a further step. In that case, Exploring data for other m
 
 **Note:** Because github can’t upload files more than 25MB, so i will attach my spreadsheet [here](https://docs.google.com/spreadsheets/d/1l3l_s-4j9nLB470mk7upWz7-7tcDf6BK1gQl8j9GnWE/edit?usp=sharing).
 
+And Also I use HTML file instead of csv and upload to github. Clink <a href="./Jan 2023.zip" download>here</a> to view.
 
 ## Step 7: Act
 
@@ -114,6 +115,7 @@ It’s visualization time!
 The final step involves presenting the findings to stakeholders. The presentation will be available in both presentation and PDF formats, with links to be added.
 
 presentation mode: click here. [link]
+
 PDF mode: [link]
 
 ## End of Analysis
