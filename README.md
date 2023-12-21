@@ -89,7 +89,7 @@ A pivot table is created to facilitate data visualization, structured as follows
 
 Here is the pivot table:
 
-[table here]
+<img src="./Pivot Table.png" width="900" alt="Sample Output"/>
 
 From the pivot table, we can see that 
 
@@ -104,7 +104,7 @@ Members have shorter average trip durations, which might suggest more routine an
 
 Suppose we want to take a further step. In that case, Exploring data for other months can reveal whether these patterns hold throughout the year or are specific to January (which can be affected by weather, holidays, etc.). Repeat steps in this docs.
 
-**Note:** Because github can’t upload files more than 25MB, so i will attach my spreadsheet here. [i will add link later]
+**Note:** Because github can’t upload files more than 25MB, so i will attach my spreadsheet [here](https://docs.google.com/spreadsheets/d/1l3l_s-4j9nLB470mk7upWz7-7tcDf6BK1gQl8j9GnWE/edit?usp=sharing).
 
 
 ## Step 7: Act
