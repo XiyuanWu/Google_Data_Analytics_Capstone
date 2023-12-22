@@ -160,7 +160,9 @@ Some key statistics:
 - 8.4: The average of a person have social media accounts in worldwide
 And some additional  statistics such as gender, age, country.
 
-Conclusion: Social media can be beneficial when used in ways that help build deeper connections between us.  
+Conclusion: 
+
+Social media can be beneficial when used in ways that help build deeper connections between us.  
 
 Unfortunately, social media is quickly becoming one of the strongest forces that divide us. We are drawn into the race for likes, competing with our followers, constantly comparing ourselves to an artificial ideal. We need to be conscious of how we use social media platforms so they can bring us together rather than divide us. 
 
