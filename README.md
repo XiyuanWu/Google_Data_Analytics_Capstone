@@ -56,9 +56,9 @@ And, use `=IF(N2 = "member", MINUS(D2, C2), "")` to find Trip Duration for Membe
 
 #### Day of the week
 
-I use `=WEEKDAY(C61872, 1)` to find which days a user ride a bike. 
+I use `=WEEKDAY(C61872, 1)` to find which days a user rides a bike and apply it to all data.
 
-Next, Exclude Weekend: `=IF(OR(W2=1, W2=7), "weekend", "weekday")`, create a new columns names “Day of week(Exclude weekend)”
+Next, Exclude Weekend: `=IF(OR(W2=1, W2=7), "weekend", "weekday")`, create a new columns name “Day of week(Exclude weekend)”
 
 Next, Separate Day of the Week for Casual and Member
 
