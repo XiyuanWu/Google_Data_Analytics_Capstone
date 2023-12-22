@@ -140,7 +140,7 @@ If we need to go into a deeper exploration, we can:
 
 ## Additional Information
 
-This is the additional information I want to add here, notice this part is **NOT** related to these projects at all. 
+This is the additional information I want to add here, notice this part is **NOT** related to this capstone projects at all. 
 
 The additional info I want to add is a project I did two years ago(a high school English project), and I’m doing a case study similar to this one. We were told to select topics we wanted, write a thesis, use statistics(found on our own) to support our idea and come up with a conclusion. Finally, we need to make slides and present them in class. I just want to show visualization here.
 
