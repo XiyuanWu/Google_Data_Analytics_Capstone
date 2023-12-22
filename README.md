@@ -50,9 +50,9 @@ The start time is column C and end time is in column D.
 
 I use `=MINUS(D2, C2)` to find trip duration, and apply them to all data, name Trip Duration in column R.
 
-Next, I use `=IF(N2 = "casual", MINUS(D2, C2), "")` to find Trip Duration for Casual Riders, and apply to all data, name Trip Duration(Casual).
+Next, I use `=IF(N2 = "casual", MINUS(D2, C2), "")` to find Trip Duration for Casual Riders, and apply to all data, name "Trip Duration(Casual)".
 
-And, use `=IF(N2 = "member", MINUS(D2, C2), "")` to find Trip Duration for Member riders, and apply to all data, name Trip Duration(Member).
+And, use `=IF(N2 = "member", MINUS(D2, C2), "")` to find Trip Duration for Member riders, and apply to all data, name "Trip Duration(Member)".
 
 #### Day of the week
 
