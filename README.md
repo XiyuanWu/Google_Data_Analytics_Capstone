@@ -48,7 +48,7 @@ The analysis begins with calculating trip durations and categorizing days of the
 #### Trip Duration
 The start time is column C and end time is in column D.
 
-I use `=MINUS(D2, C2)` to find trip duration, and apply them to all data, name Trip Duration in column O.
+I use `=MINUS(D2, C2)` to find trip duration, and apply them to all data, name Trip Duration in column R.
 
 Next, I use `=IF(N2 = "casual", MINUS(D2, C2), "")` to find Trip Duration for Casual Riders, and apply to all data, name Trip Duration(Casual).
 
