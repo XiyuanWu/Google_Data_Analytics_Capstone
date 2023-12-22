@@ -152,7 +152,7 @@ Question: Why are younger generations addicted with the number of followers and 
 
 Thesis: Younger generations are addicted to the number of followers and likes, and they are very addicted to social media.
 
-Some key statistics: [use bullet point below]
+Some key statistics: 
 
 - 4.48 billion: Number of people use social media in global world
 - 210+ Million: Estimates people suffer from internet and social media addictions worldwide
