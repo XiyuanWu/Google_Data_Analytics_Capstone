@@ -108,6 +108,13 @@ Suppose we want to take a further step. In that case, Exploring data for other m
 
 Also, I use HTML files instead of CSV and upload them to Git Hub. Clink <a href="./Jan 2023.zip" download>here</a> to view.
 
+### Solution
+The analysis shows that the average trip duration for casual riders is longer than that of members; here are some suggestions we can consider: 
+- Targeted marketing campaigns
+- Enhanced user experience
+- Enhanced user experience
+- Data monitoring
+
 ## Step 7: Act
 
 It’s visualization time!
@@ -117,6 +124,14 @@ The final step involves presenting the findings to stakeholders. The presentatio
 Presentation mode: click [here](https://gamma.app/docs/Cyclistic-Rides-Unveiling-the-Journey-Patterns-of-Casual-Riders-v-bi4laouaw9tbfj3).
 
 PDF mode: <a href="./Cyclistic-Rides-Unveiling-the-Journey-Patterns-of-Casual-Riders-vs-Members.pdf" download>here</a>.
+
+## Step 8: What's Next...
+If we need to go into a deeper exploration, we can:
+
+- Why would casual riders buy Cyclistic annual memberships? 
+
+- How can Cyclistic use digital media to influence casual riders to become members?
+
 
 ## End of Analysis
 
