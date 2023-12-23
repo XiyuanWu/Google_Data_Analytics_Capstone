@@ -4,6 +4,8 @@
 
 # Google Data Analysis Capstone
 
+Dec 2023
+
 ## Project Overview
 
 This project utilizes a spreadsheet as the main tool for analysis and visualization. In the conclusion, a slideshow visualization for stakeholders will be provided.
