@@ -6,6 +6,7 @@
 This project utilizes a **spreadsheet** as the main tool for analysis and visualization. In the conclusion, a slideshow visualization for stakeholders will be provided.
 
 ### Preliminary Notes
+
 Before diving into the analysis, please note:
 1. This file represents an analysis case study of my approach, with visualizations for stakeholders presented at the end.
 2. Due to the large volume of data, the analysis is confined to January 2023 data (19,032 rows).
