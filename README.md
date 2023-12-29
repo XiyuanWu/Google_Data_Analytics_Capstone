@@ -56,7 +56,7 @@ This is the additional information I want to add here, notice this part is **NOT
 
 The additional info I want to add is a project I did two years ago(a high school English project), and I’m doing a case study similar to this one. We were told to select topics we wanted, write a thesis, use statistics(found on our own) to support our idea and come up with a conclusion. Finally, we need to make slides and present them in class. I just want to show visualization here.
 
-Here is some keys info:
+**Here is some keys info:**
 
 Topics: Social Media Addiction
 
@@ -72,7 +72,7 @@ Some key statistics:
 - 8.4: The average of a person have social media accounts in worldwide
 And some additional  statistics such as gender, age, country.
 
-Conclusion: 
+**Conclusion:**
 
 Social media can be beneficial when used in ways that help build deeper connections between us.  
 
