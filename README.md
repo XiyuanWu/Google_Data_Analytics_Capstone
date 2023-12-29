@@ -1,4 +1,4 @@
-# Google Google Data Analysis Capstone
+# Google Data Analysis Capstone
 
 *Please read this file first before you open a folder.*
 
