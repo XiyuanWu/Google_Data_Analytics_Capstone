@@ -19,7 +19,7 @@ Key information includes:
 - **Users:** Primarily Casual Riders (single-ride or full-day pass users) and Members (annual membership holders).
 - **Goal:** To convert Casual Riders into annual Members, enhancing growth and profitability.
 
-For more information about this case study, please refer to [Case-Study-1_How-does-a-bike-shared-navigate-speedy-success.pdf](./Case-Study-1_How-does-a-bike-shared-navigate-speedy-success.pdf) for more detail.
+For more information about this case study, please refer to [Case Study 1: How does a bike shared navigate speedy success.pdf](./Case-Study-1_How-does-a-bike-shared-navigate-speedy-success.pdf) for more detail.
 
 ## Question
 
