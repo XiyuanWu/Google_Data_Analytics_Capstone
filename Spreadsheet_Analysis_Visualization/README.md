@@ -1,7 +1,3 @@
-
-
-<span style="font-family: 'Fira Code', monospace;">
-
 # Cyclistic Bike-Share Analytics: Uncovering Rider Behaviors
 
 
@@ -135,47 +131,3 @@ If we need to go into a deeper exploration, we can:
 
 
 ## End of Analysis
-
-
----
-
-## Additional Information
-
-This is the additional information I want to add here, notice this part is **NOT** related to this capstone projects at all. 
-
-The additional info I want to add is a project I did two years ago(a high school English project), and I’m doing a case study similar to this one. We were told to select topics we wanted, write a thesis, use statistics(found on our own) to support our idea and come up with a conclusion. Finally, we need to make slides and present them in class. I just want to show visualization here.
-
-Here is some keys info:
-
-Topics: Social Media Addiction
-
-Question: Why are younger generations addicted with the number of followers and likes?
-
-Thesis: Younger generations are addicted to the number of followers and likes, and they are very addicted to social media.
-
-Some key statistics: 
-
-- 4.48 billion: Number of people use social media in global world
-- 210+ Million: Estimates people suffer from internet and social media addictions worldwide
-- 2.42 HR: The time do people spend on social media each day globally for users aged 16 to 64 on any device
-- 8.4: The average of a person have social media accounts in worldwide
-And some additional  statistics such as gender, age, country.
-
-Conclusion: 
-
-Social media can be beneficial when used in ways that help build deeper connections between us.  
-
-Unfortunately, social media is quickly becoming one of the strongest forces that divide us. We are drawn into the race for likes, competing with our followers, constantly comparing ourselves to an artificial ideal. We need to be conscious of how we use social media platforms so they can bring us together rather than divide us. 
-
-Getting rid of social media altogether is not the solution. The problem is not social media itself, but rather, the way we use social media.
-
-
-For more information, please see visualization here:
-
-presentation mode(With Annotation): click [here](https://docs.google.com/presentation/d/19scMWq0w5aBeYoFG-gapRXX_Neu_7yTJhUW0zRGNM-o/edit?usp=sharing).
-
-PDF mode(Quick view): <a href="./Additional_Info/Social Media Addiction.pdf" download>Download the file</a>
-
-
-
-</span>
