@@ -53,7 +53,6 @@ First, we need an overall look for data. What does it look like? How many column
 
 #### Data Cleaning
 
-*Notes that this part was not taught in Advanced Course.*
 To clean data, I will follow the steps IN ORDER:
 
 ##### Missing Value
