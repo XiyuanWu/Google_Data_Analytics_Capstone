@@ -38,7 +38,7 @@ For more details about the analysis step, please refer to [Spreadsheet Analysis 
 
 ### Python
 
-This is an advanced way to analyze data. Previously, we talked about how spreadsheets can't handle massive amounts of data, and that's why PythonPython comes.
+This is an advanced way to analyze data. Previously, we talked about how spreadsheets can't handle massive amounts of data, and that's why Python comes.
 
 Whole analysis and Visualization are based on Python. During the analysis process, I thoroughly cleaned and analyzed the data for an entire year. 
 
