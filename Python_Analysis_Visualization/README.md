@@ -113,4 +113,4 @@ From these insights, we can conclude that annual members are likely relying on t
 
 These patterns can inform Cyclistic’s operational and marketing strategies, suggesting a focus on reliability and quick service for members, especially on weekdays, and potentially more targeted marketing towards casual users to convert them into members by emphasizing the benefits of membership for frequent riders. Moreover, promotional activities could be designed to increase casual user engagement during weekdays and to encourage member usage during weekends, potentially through events or special weekend offers.
 
----
+Next, we can consider developing a machine learning model, such as a decision tree, to predict rider behavior. Constructing a model will aid in understanding the factors influencing casual riders to convert into registered members. This predictive insight can then be leveraged to tailor strategies that encourage casual users to become members.
