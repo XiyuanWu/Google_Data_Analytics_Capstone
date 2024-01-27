@@ -5,11 +5,9 @@
 
 Before, we analyzed this project by using a spreadsheet. But spreadsheets can't handle massive amounts of data, so we only analyzed data for one month(Jan 2023). This time, we will analyze the whole 2023 year data by using Python and visualization. Although the marketing director wants to convert Casual Riders into annual Members, enhancing growth and profitability, this differs from the question document assigned to us. So, we will keep exploring the same question from last time: **"How do annual members and casual riders utilize Cyclistic bikes differently?"**
 
-## Projects Overview
+## Background Information 
 
 Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
-
-## Background Information
 
 Key information includes:
 
@@ -17,17 +15,12 @@ Key information includes:
 - **Users:** Primarily Casual Riders (single-ride or full-day pass users) and Members (annual membership holders).
 - **Goal:** To convert Casual Riders into annual Members, enhancing growth and profitability.
 
-## Data set
+## Dataset
 
 Since the data set was too large, I can't upload it to Git Hub. The dataset includes the whole year of original data in 2023 and a file after analysis. You can find the file [here](https://drive.google.com/drive/folders/1_oDLDfeTE8aVMESDThhDMCS1X_qLhkGZ?usp=drive_link).
 
 
 ## Step Approach
-
-Here, I will show the details of all steps and explain what each step is doing and how to finish this. Inside the file, you will see a short step overview.
-
-To complete this analysis, note that this step differs from the seven steps taught in the Google course, and I follow those on spreadsheet analysis. In bachizan, five steps was given. Overall, they are in the same structure.
-
 
 ### Step 1: Ask a question
 
@@ -35,13 +28,11 @@ In this step, we must ask ourselves what we want to know from our analysis. This
 
 This analysis will explore this question: **"How do annual members and casual riders utilize Cyclistic bikes differently?"**
 
-
 ### Step 2: Data Collection
 
 Since Google provided data, we can skip this step. 
 
 We have multiple ways to collect data: questionnaires, online surveys, internal/external sources, third-party sources, web crawlers, etc.
-
 
 ### Step 3: Data Process and Cleaning
 
@@ -86,14 +77,11 @@ After data cleaning, we can move on to the next steps.
 
 This part is an analysis part, and it depends on our question. In this case study, I analyze user Proportion, rideable type Proportion, Trip Duration, separated by casual and member, and day of the week, separated by weekdays and weekends.
 
-
 ### Step 5: Data Visualization and Conclusion
 
 The last step is to use the data we analyze, Visualize the data, and come to a conclusion. 
 
 Below are the conclusion and suggestions for analyzing the data.
-
-
 
 
 ## Overall Conclusion & Suggestion
