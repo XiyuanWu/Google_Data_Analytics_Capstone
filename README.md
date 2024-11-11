@@ -1,4 +1,4 @@
-# Google Data Analysis Capstone: 
+# Google Data Analysis Capstone
 
 **Cyclistic Bike Share Analytics**
 
